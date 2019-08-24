@@ -1,5 +1,9 @@
 # Advanced Lane Finding Project 
 
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
+Self-Driving Car Engineer Nanodegree Program
+
 The goals / steps of this project are the following: 
 - Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 - Apply a distortion correction to raw images. 
@@ -33,6 +37,7 @@ Compute the perspective transform, M, given source and destination points:
 M = cv2.getPerspectiveTransform(src,dst) 
 Compute the inverse perspective transform:  
 Minv = cv2.getPerspectiveTransform(dst,src) Warp an image using the perspective transform, M: 
+
 
 warped = cv2.warpPerspective(img, M, img_size, flags=cv2.INTER_LINEAR) 
 
