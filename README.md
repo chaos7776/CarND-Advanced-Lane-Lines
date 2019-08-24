@@ -4,6 +4,13 @@
 
 Self-Driving Car Engineer Nanodegree Program
 
+## Project Introduction
+
+The lane markings indicate the position of the lane to the human driver and guide the direction of the vehicle. Lane marking has always been one of the important topics of driverless driving, but how does the driverless car recognize the lane line? This project will use computer vision technology to identify lane lines.
+
+
+## Steps
+
 The goals / steps of this project are the following: 
 - Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 - Apply a distortion correction to raw images. 
