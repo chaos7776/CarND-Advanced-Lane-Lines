@@ -27,7 +27,7 @@ The final result is as follows：
 
 The video has been sent to [Tencent](https://v.qq.com/x/page/m0923upwoq3.html?).
 
-## Thing need to be done
+## Things need to be done
 
 The method of this project is to divide the video into pictures and then identify the lane line in the picture. There are two things that can be improved:
 
