@@ -29,7 +29,7 @@ The video has been sent to [Tencent](https://v.qq.com/x/page/m0923upwoq3.html?).
 
 ## Problems
 
-The method of this project is to divide the video into a picture and then identify the lane line in the picture. There are two things that can be improved:
+The method of this project is to divide the video into pictures and then identify the lane line in the picture. There are two things that can be improved:
 
 - Lane lines have a fixed width, which helps improve lane line detection accuracy in complex road conditions, such as lines on the road that are parallel to the lane line. This is not used.
 
