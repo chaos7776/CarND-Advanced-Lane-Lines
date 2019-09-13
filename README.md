@@ -33,4 +33,6 @@ The method of this project is to divide the video into pictures and then identif
 
 - Lane lines have a fixed width, which helps improve lane line detection accuracy in complex road conditions, such as lines on the road that are parallel to the lane line. This is not used.
 
-- The lane lines are continuous and will not be abrupt, the curvature and position of the lane lines of two adjacent frames are similar, this feature can effectively suppress the detected lane line abrupt changes. This is not considered
+- The lane lines are continuous and will not be abrupt, the curvature and position of the lane lines of two adjacent frames are similar, this feature can effectively suppress the detected lane line abrupt changes. This is not considered.
+
+- This method cannot be applied to complex road conditions, such as nodes with increased or decreased lane lines.
