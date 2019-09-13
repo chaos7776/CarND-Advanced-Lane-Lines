@@ -6,7 +6,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 ## Project Introduction
 
-Lane line recognition is an automatic driving basic function, which plays an important role in assisted driving functions such as lane line keeping and lane departure warning. This project will identify the lane line based on perspective transformation and curve fitting.
+Lane line recognition is a basic function of automatic driving, which plays an important role in assisted driving functions such as lane line keeping and lane departure warning. This project will identify the lane line based on perspective transformation and curve fitting.
 
 ## Project Steps
 
