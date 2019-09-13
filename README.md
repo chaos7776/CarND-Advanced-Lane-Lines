@@ -6,8 +6,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 ## Project Introduction
 
-The lane markings indicate the position of the lane to the human driver and guide the direction of the vehicle. Lane marking has always been one of the important topics of driverless driving, but how does the driverless car recognize the lane line? This project will identify the lane line with the Hough transform.
-
+Lane line recognition is an automatic driving basic function, which plays an important role in assisted driving functions such as lane line keeping and lane departure warning. This project will identify the lane line based on perspective transformation and curve fitting.
 
 ## Project Steps
 
@@ -26,5 +25,4 @@ The goals / steps of this project are the following:
 The final result is as follows：
 ![image](./image/车道线识别.png)
 
-The video has been sent to [Tencent]().
-
+The video has been sent to [Tencent](https://v.qq.com/x/page/m0923upwoq3.html?).
